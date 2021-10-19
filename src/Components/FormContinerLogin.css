@@ -1,0 +1,14 @@
+.form-continer {
+  background-color: #cac0eb;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 38rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: left;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+};
+
+.bigest-conitner {
+  text-align: center;
+};
